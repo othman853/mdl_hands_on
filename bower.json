@@ -1,0 +1,23 @@
+{
+  "name": "othman853_mdl_handson",
+  "version": "0.0.1",
+  "authors": [
+    "othman853 <anuar.yasser@gmail.com>"
+  ],
+  "description": "Material Design Lite hands on",
+  "main": "index.html",
+  "keywords": [
+    "MDL"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "material-design-lite": "~1.0.0"
+  }
+}
