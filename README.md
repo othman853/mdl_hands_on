@@ -8,4 +8,4 @@ Dependencies are not commited, please use Bower (requires npm):
 
 `bower update`
 
-All dependencies will be set at `public/` as specified in .bowerrc file.
+All dependencies will be set at `public/` as specified in `.bowerrc` file.
